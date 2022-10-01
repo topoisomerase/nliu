@@ -1,0 +1,65 @@
+body{
+  background-color: #FFF6F2;
+  padding: 2%;
+  font-family: Garamond;
+}
+
+#about{
+  width:24%;
+  float: left;
+  text-align: center;
+  /* font-family: Garamond; */
+  /* Didot */
+}
+
+#headshot{
+  width: 70%;
+  border-radius: 100%;
+}
+
+#bio{
+  font-size: 18pt;
+}
+
+#space{
+
+}
+
+#nav{
+  color: black;
+}
+
+#LI{
+  width: 20px;
+  padding: 10px;
+}
+
+#link{
+  width: 17px;
+  padding: 10px;
+}
+
+#copyright{
+  font-size: 12px;
+  position: fixed;
+  bottom: 10;
+  right: 10;
+}
+
+.verticalLine{
+  border-right: 2px solid;
+  height:100%;
+  padding-left: 1%;
+  float: left;
+}
+
+#body{
+  width: 73%;
+  padding-left: 1%;
+  float: left;
+}
+
+#title{
+  font-size: 30pt;
+  text-align: center;
+}
