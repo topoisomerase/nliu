@@ -4,6 +4,13 @@ body{
   font-family: Garamond;
 }
 
+a{
+  color: #8A3033;
+}
+a:hover {
+  color: #090C02;
+}
+
 #about{
   width:24%;
   float: left;
@@ -29,12 +36,12 @@ body{
   color: black;
 }
 
-#LI{
+.LI{
   width: 20px;
   padding: 10px;
 }
 
-#link{
+.link{
   width: 17px;
   padding: 10px;
 }
